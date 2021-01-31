@@ -44,7 +44,13 @@ h1:focus {
             0 0 6rem purple,
             0 0 8rem purple,
             0 0 10rem purple;      
-     
+        box-shadow:
+            0 0 .5rem #fff,
+            inset 0 0 .5rem #fff,
+            0 0 2rem darkblue,
+            inset 0 0 2rem darkblue,
+            0 0 4rem darkblue,
+            inset 0 0 4rem darkblue;        
     }
     
     20%, 24%, 55% {        
