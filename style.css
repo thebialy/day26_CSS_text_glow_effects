@@ -10,13 +10,13 @@ body {
 }
 
 h1 {
-    font-size: 8rem;
+    font-size: 6rem;
     font-weight: 200;
     font-style: italic;
     color: #fff;
     padding: 4rem 6rem 5.5rem;
     border: 0.4rem solid #fff;
-    border-radius: 5rem;
+    border-radius: 2rem;
     text-transform: uppercase;
     animation: flicker 1.5s infinite alternate;
 }
