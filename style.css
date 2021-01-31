@@ -1,0 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Exo+2:200i);
+
+body {
+    font-family: 'Exo 2';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #000;
+    min-height: 100vh;
+}
