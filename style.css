@@ -22,8 +22,8 @@ h1 {
 }
 
 h1::selection {
-    background-color: darkblue;
-    color: purple;
+    background-color: purple;
+    color: orange;
 }
   
 h1:focus {
@@ -39,18 +39,18 @@ h1:focus {
         text-shadow:
             -0.2rem -0.2rem 1rem #fff,
             0.2rem 0.2rem 1rem #fff,
-            0 0 2rem purple,
-            0 0 4rem purple,
-            0 0 6rem purple,
-            0 0 8rem purple,
-            0 0 10rem purple;      
+            0 0 2rem orange,
+            0 0 4rem orange,
+            0 0 6rem orange,
+            0 0 8rem orange,
+            0 0 10rem orange;      
         box-shadow:
             0 0 .5rem #fff,
             inset 0 0 .5rem #fff,
-            0 0 2rem darkblue,
-            inset 0 0 2rem darkblue,
-            0 0 4rem darkblue,
-            inset 0 0 4rem darkblue;        
+            0 0 2rem purple,
+            inset 0 0 2rem purple,
+            0 0 4rem purple,
+            inset 0 0 4rem purple;        
     }
     
     20%, 24%, 55% {        
